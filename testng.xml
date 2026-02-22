@@ -1,0 +1,8 @@
+
+<suite name="Automation Suite">
+    <test name="Wikipedia Test">
+        <classes>
+            <class name="tests.WikipediaTest"/>
+        </classes>
+    </test>
+</suite>
